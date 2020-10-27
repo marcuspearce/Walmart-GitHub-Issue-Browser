@@ -1,0 +1,7 @@
+GitHub API example : https://codesnippet.io/github-api-tutorial/ 
+
+Bootstrap Documentation : https://getbootstrap.com/docs/4.4/components/pagination/ 
+
+XMLHttpRequest : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest 
+
+Misc googles for things like onload function , syntax , etc.
